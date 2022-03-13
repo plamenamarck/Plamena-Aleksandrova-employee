@@ -1,0 +1,27 @@
+.containerPage{
+    text-align: center;
+}
+
+.buttonSubmit{
+    background-color:rgb(83, 184, 83);
+    height: 30px;
+    width: 150px;
+}
+
+.resuldContainer{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+.pairContainer{
+    width: 100%;
+    background-color: rgb(83, 184, 83);
+    border-radius: 15px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.pairWrap{
+    margin: 20px;
+}
